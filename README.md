@@ -1,2 +1,2 @@
 # Aprendiendo Git
-Bitacora del curso de Git y GitHub
+Bitacora del curso de Git y GitHubAutor: Ervin L. 
